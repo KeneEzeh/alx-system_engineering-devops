@@ -1,3 +1,2 @@
 #!/bin/bash
-mv [[:uppercase:]]
-mv [[:uppercase:]]*
+cp -nu *.html ..
